@@ -1,0 +1,15 @@
+{
+  "name": "NODE",
+  "version": "1.1.2",
+  "description": "Node CLI",
+  "main": "localeur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chase Moody",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.2"
+  },
+  "bin": {"localeur": "localeur.js"}
+}

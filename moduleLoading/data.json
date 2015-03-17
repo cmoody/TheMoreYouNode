@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "East Side Pies",
+		"Tags": ["Pizza", "Italian"],
+		"Description": "One of the best pizzas in town!"
+	},
+	{
+		"Name": "Torchy's Tacos",
+		"Tags": ["Tacos", "Queso", "Mexican"],
+		"Description": "Get the trailer park...trashy."
+	}
+]
