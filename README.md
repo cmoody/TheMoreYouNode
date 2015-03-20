@@ -1,3 +1,6 @@
+!! The example for the CLI has been shut down due to no activity !!
+!! Try out the example using another public API such as spotify !!
+
 Questions, comments, or application example requests please open up a github issue.
 
 https://nodejs.org/
